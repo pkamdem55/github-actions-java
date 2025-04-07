@@ -12,9 +12,4 @@ class DemoApplicationTests {
   void contextLoads() {
   }
 
-  @Test
-  void failure(){
-    fail();
-  }
-
 }
